@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junlei's personal websites"
+title: "Junlei Wu"
 author_profile: true
 redirect_from: 
   - /about/
